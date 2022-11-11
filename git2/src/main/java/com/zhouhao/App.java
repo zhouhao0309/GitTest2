@@ -11,7 +11,5 @@ public class App
 
         System.out.println( "Hello World!" );
         System.out.println("woani");
-        System.out.println("周浩");
-        System.out.println("zhouhao4");
     }
 }
