@@ -15,5 +15,6 @@ public class App
         System.out.println("hot");
         System.out.println("hot1");
 
+        System.out.println("gitee test");
     }
 }
